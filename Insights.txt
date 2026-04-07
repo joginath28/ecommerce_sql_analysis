@@ -1,0 +1,19 @@
+Insights from E-commerce Sales Analysis
+
+1. The Electronics category generates the highest average revenue (65,440.42), indicating strong demand and high-value transactions.
+
+2. Among sub-categories, Laptops contribute the highest average revenue (66,781.09), followed by Clothing.
+
+3. Furniture is the most sold category with 5,247 units, followed by Footwear (4,962 units). However, Laptops generate the highest revenue despite lower sales volume (3,439 units), indicating a high price per unit.
+
+4. Megan Johnson is the highest revenue-generating customer, followed by John Smith and Thomas Johnson, showing that a small group of customers contributes significantly to total revenue.
+
+5. North Carolina is the top-performing state in terms of revenue, followed by Arizona and Oklahoma, highlighting key regional markets.
+
+6. Orders are delivered very efficiently, with an average delivery time of approximately 1 day, reflecting strong operational performance.
+
+7. Payment methods are evenly distributed: Cash on Delivery (25.41%), Card (25.25%), Net Banking (24.90%), and UPI (24.44%), indicating no strong dependency on a single payment mode.
+
+8. The brand "Wright, Miller and Maddox" generates the highest revenue, showing strong brand performance.
+
+9. Discounts reduce revenue by an average of 11,293.60, indicating a measurable impact of discounting on overall sales.
